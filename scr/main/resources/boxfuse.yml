@@ -1,0 +1,10 @@
+server:
+  applicationConnectors:
+    - type: http
+      port: 80
+  requestLog:
+      appenders: []
+logging:
+  appenders:
+    - type: console
+      threshold: WARN
