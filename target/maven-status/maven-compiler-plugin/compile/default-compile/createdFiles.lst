@@ -1,0 +1,5 @@
+eu\fincon\dropwizard_test\api\Saying.class
+eu\fincon\dropwizard_test\ExampleApplication.class
+eu\fincon\dropwizard_test\health\TemplateHealthCheck.class
+eu\fincon\dropwizard_test\resources\ExampleResource.class
+eu\fincon\dropwizard_test\ExampleConfiguration.class
